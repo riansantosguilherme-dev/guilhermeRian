@@ -8,8 +8,8 @@
 
 /* Estilo do Corpo (Body) */
 body {
-    background-color: #f4f7f6; /* Cor de fundo suave */
-    color: #333; /* Cor do texto principal */
+    background-color: #f4f6f7; /* Cor de fundo suave */
+    color: #333333; /* Cor do texto principal */
     transition: background-color 0.5s ease; /* Efeito suave quando o JS mudar a cor */
 }
 
@@ -35,11 +35,11 @@ header h1 {
 
 /* Estilo dos Blocos de Conteúdo (Cards) */
 .card {
-    background-color: white;
+    background-color: rgb(31, 143, 46);
     padding: 25px;
     border-radius: 8px; /* Bordas arredondadas */
     margin-bottom: 20px; /* Espaço entre um card e outro */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    box-shadow: 0 4px 6px rgba(39, 176, 174, 0.1); /* Sombra leve */
 }
 
 .card h2 {
@@ -70,7 +70,7 @@ button:hover {
 footer {
     text-align: center;
     padding: 20px;
-    color: #777;
+    color: #777777;
     font-size: 0.9rem;
     margin-top: 40px;
 }
